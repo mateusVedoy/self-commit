@@ -1,0 +1,12 @@
+{
+  "name": "self-commit",
+  "version": "1.0.0",
+  "description": "Application to commit itself",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
